@@ -154,7 +154,7 @@ class Customizer {
 				'panel'    => 'shop_product',
 			),
 			'single_product_related' => array(
-				'title'    => esc_html__( 'Related Products', 'razzi' ),
+				'title'    => esc_html__( 'Más Productos', 'razzi' ),
 				'priority' => 20,
 				'panel'    => 'shop_product',
 			),
@@ -566,7 +566,7 @@ class Customizer {
 						'recent_products'       => esc_html__( 'Recent products', 'razzi' ),
 						'sale_products'         => esc_html__( 'Sale products', 'razzi' ),
 						'top_rated_products'    => esc_html__( 'Top rated products', 'razzi' ),
-						'related_products'      => esc_html__( 'Related products', 'razzi' ),
+						'related_products'      => esc_html__( 'Más Productos', 'razzi' ),
 						'upsells_products'      => esc_html__( 'Upsells products', 'razzi' ),
 
 					),

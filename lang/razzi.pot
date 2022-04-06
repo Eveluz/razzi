@@ -1807,11 +1807,11 @@ msgid "Register"
 msgstr ""
 
 #: inc/woocommerce/class-razzi-woo-customizer.php:157
-msgid "Related Products"
+msgid "Más Productos"
 msgstr ""
 
 #: inc/woocommerce/class-razzi-woo-customizer.php:569
-msgid "Related products"
+msgid "Más Productos"
 msgstr ""
 
 #: template-parts/modals/account.php:34 woocommerce/myaccount/form-login.php:45
