@@ -1,0 +1,19 @@
+@media (max-width: 1199px) {
+    .razzi-product-shortcode{
+        &.single-product {
+            div.product {
+                .entry-summary {
+                    padding-right: 0;
+                }
+            }
+        }
+    }
+
+    .razzi-products-carousel__slidesperviewauto-yes .razzi-products-carousel {
+        margin-right: 0 !important;
+
+        ul.products li.swiper-item-empty {
+            display: none;
+        }
+    }
+}
