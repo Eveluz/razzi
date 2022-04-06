@@ -1179,6 +1179,7 @@ textarea {
 	margin: 0;
 	padding: 0;
 	list-style: none;
+	display: none;
 }
 
 .socials-menu li {
@@ -3598,6 +3599,7 @@ object {
 	line-height: 19px;
 	color: #919191;
 	margin-top: 15px;
+	display: none;
 }
 
 .ra-menu-mobile-modal .menu-mobile-panel-content {
