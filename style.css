@@ -715,6 +715,7 @@ html {
 *:after {
 	/* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
 	box-sizing: border-box;
+	font-family: 'euphemia-ucas', sans-serif;
 }
 
 body {
@@ -1344,6 +1345,7 @@ textarea {
 	padding: 3px;
 	white-space: nowrap;
 	position: relative;
+	font-family: 'euphemia-ucas', sans-serif;
 }
 
 .main-navigation .nav-menu > li > a:after {
@@ -1371,6 +1373,7 @@ textarea {
 .main-navigation .nav-menu > li.menu-item-has-children > a {
 	position: relative;
 	padding-right: 20px;
+	font-family: 'euphemia-ucas', sans-serif;
 }
 
 .main-navigation .nav-menu > li:hover > a, .main-navigation .nav-menu > li.focus > a {

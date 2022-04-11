@@ -643,6 +643,8 @@ html {
 *:after {
 	/* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
 	box-sizing: border-box;
+	font-family: 'euphemia-ucas-3', sans-serif;
+	font-size: 15px;
 }
 
 body {
@@ -3647,11 +3649,12 @@ object {
 }
 
 .ra-menu-mobile-modal ul.nav-menu > li > a {
-	font-size: 24px;
+	font-size: 19px;
 }
 
 .ra-menu-mobile-modal ul.nav-menu a {
 	line-height: 36px;
+	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .site-header .campaign-bar {
@@ -3693,6 +3696,7 @@ object {
 	letter-spacing: 0.02em;
 	text-transform: uppercase;
 	color: var(--rz-color-dark);
+	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .razzi-currency {

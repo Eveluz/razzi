@@ -1156,6 +1156,7 @@ ul.products li.product .woocommerce-loop-product__title a {
 	color: inherit;
 	font-family: 'euphemia-ucas-3', sans-serif;
 	letter-spacing: 2px;
+	font-size: 14px;
 
 }
 
@@ -1175,6 +1176,7 @@ ul.products li.product .price {
 	font-size: 16px;
 	font-weight: 500;
 	display: block;
+	font-family: 'euphemia-ucas', sans-serif;
 }
 
 ul.products li.product .price del {
@@ -5072,6 +5074,7 @@ ul:not(.product-loop-layout-2) .woocommerce-badges--layout-2 {
 	font-size: 28px;
 	text-align: center;
 	margin: 0 0 60px;
+	font-family: 'euphemia-ucas', sans-serif;
 }
 
 h2.single-product title: before{
@@ -5136,7 +5139,7 @@ h2.single-product title: before{
 
 .single-product div.product .entry-summary .product_title {
 	font-size: 14px;
-	margin-top: 20em;
+	margin-top: 24em;
 	font-family: 'euphemia-ucas', sans-serif;
 	letter-spacing: 2px;
 }
@@ -5591,7 +5594,8 @@ h2.single-product title: before{
 	position: relative;
 	margin-bottom: 0;
 	border: none;
-	margin-top: -33em;
+	margin-top: -37em;
+	font-family: 'euphemia-ucas', sans-serif;
 }
 
 .single-product div.product.product-type-variable form.cart .variations td {
@@ -5667,6 +5671,7 @@ h2.single-product title: before{
 .single-product div.product.product-type-variable form.variations_form .product-button-wrapper .single_add_to_cart_button.disabled {
 	opacity: .5;
 	cursor: not-allowed;
+	font-family: 'euphemia-ucas', sans-serif;
 }
 
 .wcboost-variation-swatches.wcboost-variation-swatches--color .wcboost-variation-swatches__item {
@@ -6799,10 +6804,11 @@ h2.single-product title: before{
 }
 
 .woocommerce-checkout form.checkout h3 {
-	font-weight: 500;
+	font-weight: 600;
 	font-size: 20px;
 	line-height: 29px;
 	margin-top: 0;
+	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .woocommerce-checkout form.checkout .form-row {
@@ -7390,6 +7396,7 @@ h2.single-product title: before{
 .product-qty-number .razzi-sticky-add-to-cart .quantity .qty {
 	padding: 0;
 	width: 34px;
+	font-family: 'euphemia-ucas', sans-serif;
 }
 
 .product-qty-number.woocommerce-cart table.shop_table .product-qty .quantity {

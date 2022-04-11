@@ -1588,6 +1588,8 @@ ul.products li.product .woocommerce-loop-product__title {
 
 ul.products li.product .woocommerce-loop-product__title a {
 	color: inherit;
+	font-family: 'euphemia-ucas-3', sans-serif;
+	font-size: 15px;
 }
 
 ul.products li.product .meta-cat {
@@ -4345,7 +4347,7 @@ ul.products.mobile-pl-col-3 li.product {
 }
 
 .single-product div.product section.products {
-	margin-top: 15em;
+	margin-top: 18em;
 }
 
 .single-product div.product section.products:nth-child(2) {
@@ -4559,7 +4561,7 @@ ul.products.mobile-pl-col-3 li.product {
 	position: relative;
 	margin-bottom: 0;
 	border: none;
-	margin-top: -42em;
+	margin-top: -48em;
 }
 
 .single-product div.product.product-type-variable form.cart .variations td {
@@ -4849,7 +4851,7 @@ ul.products.mobile-pl-col-3 li.product {
 	line-height: 1.2;
 	margin-bottom: 3px;
 	font-family: 'euphemia-ucas', sans-serif;
-	margin-top: 33em;
+	margin-top: 36em;
 }
 
 .single-product div.product .entry-summary .price {
@@ -6510,10 +6512,11 @@ table.order_details .woocommerce-table__product-table .product-content {
 }
 
 .woocommerce-checkout form.checkout h3 {
-	font-weight: 500;
+	font-weight: 600;
 	font-size: 20px;
 	line-height: 29px;
 	margin-top: 0;
+	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .woocommerce-checkout form.checkout .form-row {
@@ -6831,6 +6834,7 @@ table.order_details .woocommerce-table__product-table .product-content {
 .woocommerce-checkout .woocommerce-checkout-payment .place-order button {
 	width: inherit;
 	margin-top: 20px;
+	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .woocommerce-checkout .woocommerce-order .woocommerce-notice {
