@@ -644,7 +644,7 @@ html {
 	/* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
 	box-sizing: border-box;
 	font-family: 'euphemia-ucas-3', sans-serif;
-	font-size: 10px;
+	font-size: 15px;
 }
 
 body {
