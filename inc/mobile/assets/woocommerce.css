@@ -1609,6 +1609,7 @@ ul.products li.product .price {
 	font-size: 16px;
 	font-weight: 500;
 	display: block;
+	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 ul.products li.product .price del {
@@ -3682,11 +3683,12 @@ ul.products.mobile-pl-col-3 li.product {
 .single-product .site-breadcrumb {
 	padding: 15px 0;
 	margin: 0;
-	font-size: 14px;
+	font-size: 12px;
 	display: flex;
 	align-items: center;
 	overflow: auto;
 	white-space: nowrap;
+	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 /**
@@ -4358,6 +4360,7 @@ ul.products.mobile-pl-col-3 li.product {
 	font-size: 28px;
 	text-align: center;
 	margin: 0 0 60px;
+	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .single-product div.product section.products .swiper-container-initialized ul.products {
@@ -4561,7 +4564,7 @@ ul.products.mobile-pl-col-3 li.product {
 	position: relative;
 	margin-bottom: 0;
 	border: none;
-	margin-top: -48em;
+	margin-top: -63em;
 }
 
 .single-product div.product.product-type-variable form.cart .variations td {
@@ -4637,6 +4640,7 @@ ul.products.mobile-pl-col-3 li.product {
 .single-product div.product.product-type-variable form.variations_form .product-button-wrapper .single_add_to_cart_button.disabled {
 	opacity: .5;
 	cursor: not-allowed;
+	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .wcboost-variation-swatches.wcboost-variation-swatches--color .wcboost-variation-swatches__item {
@@ -4974,7 +4978,7 @@ ul.products.mobile-pl-col-3 li.product {
 }
 
 .single-product div.product .woocommerce-tabs {
-	margin-top: 50px;
+	margin-top: 16em;
 }
 
 .single-product div.product .woocommerce-tabs ul.tabs {
