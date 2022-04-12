@@ -4753,6 +4753,7 @@ ul:not(.product-loop-layout-2) .woocommerce-badges--layout-2 {
 	position: relative;
 	margin-right: 0px;
 	min-width: 230px;
+	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .single-product div.product .product-button-wrapper .single_add_to_cart_button.loading {
@@ -7125,6 +7126,7 @@ h2.single-product title: before{
 .woocommerce-checkout .woocommerce-checkout-payment .place-order button {
 	width: inherit;
 	margin-top: 20px;
+	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .woocommerce-checkout .woocommerce-order .woocommerce-notice {
