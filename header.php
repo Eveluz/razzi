@@ -20,6 +20,10 @@
     <link href="https://blogfonts.com/css/aWQ9NTk1MzYmc3ViPTUzNiZjPWUmdHRmPUV1cGhlbWlhK1VDQVMrSXRhbGljKzIuNi42LnR0ZiZuPWV1cGhlbWlhLXVjYXMtMg/Euphemia UCAS.ttf" rel="stylesheet" type="text/css"/>
     <link href="https://blogfonts.com/css/aWQ9NTk1MzYmc3ViPTUzNiZjPWUmdHRmPUV1cGhlbWlhK1VDQVMrUmVndWxhcisyLjYuNi50dGYmbj1ldXBoZW1pYS11Y2FzLTM/Euphemia UCAS.ttf" rel="stylesheet" type="text/css"/>
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet"> 
+
 	<?php wp_head(); ?>
 </head>
 

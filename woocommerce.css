@@ -1154,7 +1154,7 @@ ul.products li.product .woocommerce-loop-product__title {
 
 ul.products li.product .woocommerce-loop-product__title a {
 	color: inherit;
-	font-family: 'euphemia-ucas-3', sans-serif;
+	font-family: 'Fjalla One', sans-serif;
 	letter-spacing: 2px;
 	font-size: 14px;
 
@@ -1176,7 +1176,7 @@ ul.products li.product .price {
 	font-size: 16px;
 	font-weight: 500;
 	display: block;
-	font-family: 'euphemia-ucas', sans-serif;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 ul.products li.product .price del {
@@ -4753,7 +4753,6 @@ ul:not(.product-loop-layout-2) .woocommerce-badges--layout-2 {
 	position: relative;
 	margin-right: 0px;
 	min-width: 230px;
-	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .single-product div.product .product-button-wrapper .single_add_to_cart_button.loading {
@@ -4787,7 +4786,6 @@ ul:not(.product-loop-layout-2) .woocommerce-badges--layout-2 {
 }
 
 .single-product div.product .woocommerce-product-details__short-description {
-	margin-top: -2em;
 	margin-bottom: 15px;
 	font-family: 'euphemia-ucas-3', sans-serif;
 	font-size: 13px;
@@ -5075,7 +5073,7 @@ ul:not(.product-loop-layout-2) .woocommerce-badges--layout-2 {
 	font-size: 28px;
 	text-align: center;
 	margin: 0 0 60px;
-	font-family: 'euphemia-ucas', sans-serif;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 h2.single-product title: before{
@@ -5141,7 +5139,7 @@ h2.single-product title: before{
 .single-product div.product .entry-summary .product_title {
 	font-size: 14px;
 	margin-top: 24em;
-	font-family: 'euphemia-ucas', sans-serif;
+	font-family: 'Fjalla One', sans-serif;
 	letter-spacing: 2px;
 }
 
@@ -5151,11 +5149,10 @@ h2.single-product title: before{
 }
 
 .single-product div.product .entry-summary .price {
-	font-size: 24px;
-	font-weight: 500;
+	font-size: 14px;
 	color: var(--rz-color-dark);
 	margin: 0;
-	display: none;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 .single-product div.product .entry-summary .price del {
@@ -5596,7 +5593,6 @@ h2.single-product title: before{
 	margin-bottom: 0;
 	border: none;
 	margin-top: -37em;
-	font-family: 'euphemia-ucas', sans-serif;
 }
 
 .single-product div.product.product-type-variable form.cart .variations td {
