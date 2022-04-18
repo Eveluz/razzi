@@ -1173,8 +1173,7 @@ ul.products li.product .meta-cat:hover {
 
 ul.products li.product .price {
 	color: #000000;
-	font-size: 16px;
-	font-weight: 500;
+	font-size: 14px;
 	display: block;
 	font-family: 'Fjalla One', sans-serif;
 }
@@ -5115,7 +5114,7 @@ h2.single-product title: before{
 }
 
 .single-product div.product .entry-summary {
-	width: 51.3%;
+	/*width: 51.3%;*/
 	padding-left: 100px;
 	float: right;
 }
@@ -5592,7 +5591,7 @@ h2.single-product title: before{
 	position: relative;
 	margin-bottom: 0;
 	border: none;
-	margin-top: -37em;
+	margin-top: -44em;
 }
 
 .single-product div.product.product-type-variable form.cart .variations td {
@@ -5668,7 +5667,6 @@ h2.single-product title: before{
 .single-product div.product.product-type-variable form.variations_form .product-button-wrapper .single_add_to_cart_button.disabled {
 	opacity: .5;
 	cursor: not-allowed;
-	font-family: 'euphemia-ucas', sans-serif;
 }
 
 .wcboost-variation-swatches.wcboost-variation-swatches--color .wcboost-variation-swatches__item {
