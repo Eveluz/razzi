@@ -4894,6 +4894,7 @@ ul.products.mobile-pl-col-3 li.product {
 	height: 8px;
 	text-indent: -9999em;
 	background-color: #d8d8d8;
+	margin-top: 10px;
 }
 
 .single-product div.product .flex-control-nav li .flex-active {

@@ -4789,6 +4789,7 @@ ul:not(.product-loop-layout-2) .woocommerce-badges--layout-2 {
 	font-family: 'euphemia-ucas-3', sans-serif;
 	font-size: 13px;
 	letter-spacing: 2px;
+	margin-top: 32em;
 }
 
 .single-product div.product .woocommerce-product-details__short-description p {
@@ -5136,8 +5137,8 @@ h2.single-product title: before{
 }
 
 .single-product div.product .entry-summary .product_title {
-	font-size: 14px;
-	margin-top: 24em;
+	font-size: 20px;
+	margin-top: -3em;
 	font-family: 'Fjalla One', sans-serif;
 	letter-spacing: 2px;
 }
@@ -5189,6 +5190,7 @@ h2.single-product title: before{
 
 .single-product div.product .summary-price-box .price {
 	margin-right: 16px;
+	font-size: 17px;
 }
 
 .single-product div.product .summary-price-box .rz-stock {
@@ -5591,7 +5593,7 @@ h2.single-product title: before{
 	position: relative;
 	margin-bottom: 0;
 	border: none;
-	margin-top: -44em;
+	margin-top: -37em;
 }
 
 .single-product div.product.product-type-variable form.cart .variations td {
