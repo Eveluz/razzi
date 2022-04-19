@@ -4075,8 +4075,7 @@ ul.products.mobile-pl-col-3 li.product {
 }
 
 .single-product div.product .woocommerce-product-details__short-description {
-	margin-top: 10px;
-	margin-bottom: 15px;
+	margin-top: 47em;
 	font-family: 'euphemia-ucas', sans-serif;
 	font-size: 12px;
 }
@@ -4356,7 +4355,7 @@ ul.products.mobile-pl-col-3 li.product {
 }
 
 .single-product div.product section.products > h2 {
-	font-size: 28px;
+	font-size: 20px;
 	text-align: center;
 	margin: 0 0 60px;
 	font-family: 'Fjalla One', sans-serif;
@@ -4849,11 +4848,11 @@ ul.products.mobile-pl-col-3 li.product {
 }
 
 .single-product div.product .entry-summary .product_title {
-	font-size: 13px;
+	font-size: 20px;
 	line-height: 1.2;
 	margin-bottom: 3px;
-	margin-top: 36em;
 	font-family: 'Fjalla One', sans-serif;
+	text-align: center;
 }
 
 .single-product div.product .entry-summary .price {
@@ -4861,7 +4860,9 @@ ul.products.mobile-pl-col-3 li.product {
 }
 
 .single-product div.product .entry-summary .woocommerce-product-rating {
-	margin-bottom: 15px;
+	margin-bottom: 17px;
+	padding-left: 9em;
+	margin-top: 10px;
 }
 
 .single-product div.product .flex-control-nav {
@@ -6609,7 +6610,7 @@ table.order_details .woocommerce-table__product-table .product-content {
 
 .woocommerce-checkout .woocommerce-checkout-review-order-table tbody td {
 	padding: 5px 0;
-	font-size: 15px;
+	font-size: 14px;
 }
 
 .woocommerce-checkout .woocommerce-checkout-review-order-table tfoot th {
@@ -6652,7 +6653,7 @@ table.order_details .woocommerce-table__product-table .product-content {
 .woocommerce-checkout .woocommerce-checkout-review-order-table .variation {
 	color: var(--rz-text-color-gray);
 	font-weight: 400;
-	font-size: 15px;
+	font-size: 13px;
 	letter-spacing: 0;
 	margin: 0;
 }
