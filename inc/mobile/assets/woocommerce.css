@@ -4075,7 +4075,7 @@ ul.products.mobile-pl-col-3 li.product {
 }
 
 .single-product div.product .woocommerce-product-details__short-description {
-	margin-top: 47em;
+	margin-top: 44em;
 	font-family: 'euphemia-ucas', sans-serif;
 	font-size: 12px;
 }
@@ -4347,7 +4347,7 @@ ul.products.mobile-pl-col-3 li.product {
 }
 
 .single-product div.product section.products {
-	margin-top: 18em;
+	margin-top: 5em;
 }
 
 .single-product div.product section.products:nth-child(2) {
@@ -4562,7 +4562,7 @@ ul.products.mobile-pl-col-3 li.product {
 	position: relative;
 	margin-bottom: 0;
 	border: none;
-	margin-top: -47em;
+	margin-top: -45em;
 }
 
 .single-product div.product.product-type-variable form.cart .variations td {
@@ -4874,7 +4874,7 @@ ul.products.mobile-pl-col-3 li.product {
 	text-align: center;
 	padding: 0;
 	line-height: 0;
-	bottom: 20px;
+	/*bottom: 20px;*/
 	margin: 0;
 }
 
