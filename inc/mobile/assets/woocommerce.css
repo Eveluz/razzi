@@ -6517,7 +6517,7 @@ table.order_details .woocommerce-table__product-table .product-content {
 	font-size: 20px;
 	line-height: 29px;
 	margin-top: 0;
-	font-family: 'euphemia-ucas-3', sans-serif;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 .woocommerce-checkout form.checkout .form-row {
@@ -6596,6 +6596,7 @@ table.order_details .woocommerce-table__product-table .product-content {
 .woocommerce-checkout .woocommerce-checkout-review-order-table thead th {
 	border-bottom: 1px solid #E2E2E2;
 	padding: 0 0 10px 0;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 .woocommerce-checkout .woocommerce-checkout-review-order-table tbody tr {
@@ -6629,7 +6630,7 @@ table.order_details .woocommerce-table__product-table .product-content {
 
 .woocommerce-checkout .woocommerce-checkout-review-order-table tfoot .shipping-title {
 	color: var(--rz-color-dark);
-	font-size: 16px;
+	font-size: 15px;
 	font-weight: 500;
 	padding: 0;
 }
