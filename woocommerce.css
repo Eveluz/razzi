@@ -5114,8 +5114,7 @@ h2.single-product title: before{
 }
 
 .single-product div.product .entry-summary {
-	/*width: 51.3%;*/
-	padding-left: 100px;
+	width: 51.3%
 	float: right;
 }
 
@@ -7392,7 +7391,7 @@ h2.single-product title: before{
 .product-qty-number .razzi-sticky-add-to-cart .quantity .qty {
 	padding: 0;
 	width: 34px;
-	font-family: 'euphemia-ucas', sans-serif;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 .product-qty-number.woocommerce-cart table.shop_table .product-qty .quantity {
