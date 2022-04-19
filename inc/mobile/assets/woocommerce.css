@@ -1588,8 +1588,8 @@ ul.products li.product .woocommerce-loop-product__title {
 
 ul.products li.product .woocommerce-loop-product__title a {
 	color: inherit;
-	font-family: 'euphemia-ucas-3', sans-serif;
-	font-size: 15px;
+	font-size: 14px;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 ul.products li.product .meta-cat {
@@ -1606,10 +1606,10 @@ ul.products li.product .meta-cat:hover {
 
 ul.products li.product .price {
 	color: #000000;
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 500;
 	display: block;
-	font-family: 'euphemia-ucas-3', sans-serif;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 ul.products li.product .price del {
@@ -3688,7 +3688,6 @@ ul.products.mobile-pl-col-3 li.product {
 	align-items: center;
 	overflow: auto;
 	white-space: nowrap;
-	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 /**
@@ -4360,7 +4359,7 @@ ul.products.mobile-pl-col-3 li.product {
 	font-size: 28px;
 	text-align: center;
 	margin: 0 0 60px;
-	font-family: 'euphemia-ucas-3', sans-serif;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 .single-product div.product section.products .swiper-container-initialized ul.products {
@@ -4564,7 +4563,7 @@ ul.products.mobile-pl-col-3 li.product {
 	position: relative;
 	margin-bottom: 0;
 	border: none;
-	margin-top: -55em;
+	margin-top: -47em;
 }
 
 .single-product div.product.product-type-variable form.cart .variations td {
@@ -4640,7 +4639,6 @@ ul.products.mobile-pl-col-3 li.product {
 .single-product div.product.product-type-variable form.variations_form .product-button-wrapper .single_add_to_cart_button.disabled {
 	opacity: .5;
 	cursor: not-allowed;
-	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .wcboost-variation-swatches.wcboost-variation-swatches--color .wcboost-variation-swatches__item {
@@ -4854,12 +4852,12 @@ ul.products.mobile-pl-col-3 li.product {
 	font-size: 13px;
 	line-height: 1.2;
 	margin-bottom: 3px;
-	font-family: 'euphemia-ucas', sans-serif;
 	margin-top: 36em;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 .single-product div.product .entry-summary .price {
-	font-size: 18px;
+	font-size: 14px;
 }
 
 .single-product div.product .entry-summary .woocommerce-product-rating {
@@ -6837,7 +6835,6 @@ table.order_details .woocommerce-table__product-table .product-content {
 .woocommerce-checkout .woocommerce-checkout-payment .place-order button {
 	width: inherit;
 	margin-top: 20px;
-	font-family: 'euphemia-ucas-3', sans-serif;
 }
 
 .woocommerce-checkout .woocommerce-order .woocommerce-notice {
