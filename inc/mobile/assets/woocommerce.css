@@ -4856,13 +4856,14 @@ ul.products.mobile-pl-col-3 li.product {
 }
 
 .single-product div.product .entry-summary .price {
-	font-size: 14px;
+	font-size: 17px;
+	margin-left: 9em;
+	padding-top: 1em;
+
 }
 
 .single-product div.product .entry-summary .woocommerce-product-rating {
-	margin-bottom: 17px;
-	padding-left: 9em;
-	margin-top: 10px;
+	margin-bottom: 15px;
 }
 
 .single-product div.product .flex-control-nav {
