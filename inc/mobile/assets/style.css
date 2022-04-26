@@ -3572,6 +3572,7 @@ object {
 
 .ra-hamburger-modal ul.nav-menu li.menu-item-has-children > a {
 	font-weight: 500;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 .ra-hamburger-modal ul.nav-menu.active-arrow li.menu-item-has-children .toggle-menu-children {
@@ -3648,6 +3649,7 @@ object {
 
 .ra-menu-mobile-modal ul.nav-menu > li > a {
 	font-size: 19px;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 .ra-menu-mobile-modal ul.nav-menu a {

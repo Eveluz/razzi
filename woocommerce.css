@@ -1454,6 +1454,9 @@ ul.products.product-loop-center li.product .star-rating {
 
 ul.products.product-loop-layout-1 li.product .product-summary {
 	padding-top: 15px;
+	border: solid 1px;
+	text-align: center;
+	padding-bottom: 10px;
 }
 
 ul.products.product-loop-layout-1 li.product .star-rating {

@@ -1575,6 +1575,9 @@ ul.products li.product .product-summary {
 	transition: transform .35s ease;
 	padding-top: 20px;
 	background-color: #fff;
+	border: solid 1px;
+	text-align: center;
+	padding-bottom: 10px;
 }
 
 ul.products li.product .product-summary .rz-loop_atc_button {
@@ -2193,12 +2196,17 @@ body.admin-bar .notifyjs-corner {
 }
 
 .rz-popup-add-to-cart .rz-product-popup-atc__recommendation .product-heading {
-	font-size: 24px;
+	font-size: 17px;
 	margin: 0 20px 20px 0;
 	font-weight: 500;
 	line-height: 1;
+	font-family: 'Fjalla One', sans-serif;
 }
-
+/*add eve*/
+.hotspot-modal, button, optgroup {
+ font-family: 'Fjalla One', sans-serif;
+}
+/*add eve*/
 .rz-popup-add-to-cart .rz-product-popup-atc__recommendation .recommendation-heading {
 	display: flex;
 	align-items: center;
