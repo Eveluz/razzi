@@ -4467,9 +4467,10 @@ ul.products.mobile-pl-col-3 li.product {
 }
 
 .single-product div.product .summary-price-box {
-	display: flex;
+	/*display: flex;*/
 	align-items: center;
 	margin: 0 0 20px;
+	text-align: center;
 }
 
 .single-product div.product .summary-price-box .price {
@@ -4865,7 +4866,6 @@ ul.products.mobile-pl-col-3 li.product {
 
 .single-product div.product .entry-summary .price {
 	font-size: 17px;
-	margin-left: 9em;
 	padding-top: 1em;
 
 }
