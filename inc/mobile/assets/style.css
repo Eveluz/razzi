@@ -3632,8 +3632,9 @@ object {
 }
 
 .ra-menu-mobile-modal ul.nav-menu ul li a {
-	font-size: 20px;
+	font-size: 15px;
 	line-height: 1.5;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 .ra-menu-mobile-modal ul.nav-menu li.menu-item-has-children .toggle-menu-children {
